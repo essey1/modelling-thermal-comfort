@@ -28,10 +28,9 @@ doing what it does best.
 
 ---
 
-## What is in This Notebook?
+## What is in This Repo?
 
-This Google Colab is the computational engine behind our paper. Everything here is
-meant to be run top to bottom, and each section builds directly on the one before it.
+This Repo is the computational engine behind our paper.
 Here is the roadmap:
 
 | Section | What We Do |
@@ -40,7 +39,6 @@ Here is the roadmap:
 | **Task 2** | Use $\theta(t)$ to model the interior temperature $T(t)$ with a first-order ODE, solved numerically using Forward Euler |
 | **Task 3** | Upgrade the model with thermal inertia — a second-order ODE that makes the system respond more realistically |
 | **Task 4** | Compute the thermal exposure $E = \int |T(t) - 72| \, dt$, a single number that captures how uncomfortable the ride was |
-| **Task 5** | Compare everything, make sense of the results, and actually answer the central question |
 
 ---
 
