@@ -23,8 +23,7 @@ accordingly — and sometimes it does not get it quite right.
 > outside temperature seems perfectly mild and stable?*
 
 To answer this, we are going to build mathematical models from scratch using the tools
-we have developed in MAT 433. No shortcuts, no black boxes — just numerical analysis
-doing what it does best.
+we have developed in MAT 433 combined with our own research.
 
 ---
 
